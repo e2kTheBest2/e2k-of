@@ -3,4 +3,4 @@ prefix=e
 game=eplay | official e2k Bot
 stayinchannel=true
 songinstatus=false
-token=NjExOTU0ODc3MzU4NDA3NzAx.XVbVfQ.S-LEX9VrSEWdl0YMldyF8HGktHY
+token="NjExOTU0ODc3MzU4NDA3NzAx.XVbVfQ.S-LEX9VrSEWdl0YMldyF8HGktHY"
